@@ -68,30 +68,30 @@
 
 ```shell script
 sudo apt update -y && apt full-upgrade -y
-git clone https://github.com/TeamMetaxone/Cyberonix.git
-cd Cyberonix
+git clone https://github.com/Prince2903/CyberStuff
+cd cyberstuff
 chmod +x setup.py
 sudo python3 setup.py
-cyberonix
+cyberstuff
 ```
 ## PIP intallation
 
 ```shell script
-pip install cyberonix
+pip install cyberstuff
 ```
 If you get Externally-Managed-Environment issue in your machine please check this blog <a href="https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/" target="_blank">click here</a>
 
 # Usage
 
 ```sh
-cyberonix -h
+cyberstuff -h
 ctrl+c for exit
 enter for back
 ```
 Please find below the instructions to access the tool's help function, along with a list of all available switches:
 
 ```console
-Cyberonix is a complete resource hub for Cyber Security Community. Our aim is to make this
+cyberstuff is a complete resource hub for Cyber Security Community. Our aim is to make this
 tool an 1 stop solution for all the Hackers out there to get resources of various topics in
 Cyber Security. We will keep updating this tool & adding new & updated resources on the go.
 
