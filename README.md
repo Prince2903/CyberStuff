@@ -395,14 +395,6 @@ remove duplicate:
 
 
     
-# ScreenShots
-![help](https://user-images.githubusercontent.com/53564887/222358670-e7b2c901-37a7-4220-a885-b31d617dc801.png)
----
-![home](https://user-images.githubusercontent.com/53564887/222358728-46594e68-cb5f-431b-9ff7-21dec0303689.png)
----
-![tools](https://user-images.githubusercontent.com/53564887/222358767-be62a30f-cb7e-4d29-8448-2fffe56ce358.png)
----
-![bug-bounty menue](https://user-images.githubusercontent.com/53564887/222358835-d1eb1b7a-ab0d-446b-b2de-3d6d8911b606.png)
 
 
 </div>
